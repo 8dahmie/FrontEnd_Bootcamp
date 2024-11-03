@@ -86,7 +86,7 @@ const Language = () => {
                     }} 
                         className='text-center text-decoration-underline h3'>BOOTSTRAP </dl>
                         <dd className='mt-3 text-uppercase'
-                        style={{color:"rgb(100, 149, 237)"}}> a feature-packed TOOLKIT.
+                        style={{color:"rgb(100, 149, 237)"}}> a feature-packed TOOLKIT..
                        very Powerful, extensible, </dd>
                     
                         </ol>
