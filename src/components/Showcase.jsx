@@ -11,7 +11,7 @@ const Showcase = () => {
                 <h1> Become a <span className="text-warning"> Web Developer</span></h1>
                 <p className="lead my-4">
                     We focus on teaching our students the fundamentals of the latest
-                    and greatest technologies to prepare them for their first dev role
+                    and greatest technologies to prepare them for their first dev role in a great company
                 </p>
                 <button className="btn btn-primary btn-lg"> Start the Enrollment</button> 
             </div>
